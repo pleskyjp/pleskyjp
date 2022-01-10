@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jiří Pleskot</h1>
 <h3 align="center">A passionate web developer from Czech Republic</h3>
 
-- 🌱 I’m currently at learning stage of **frontend webdev with firebase service**, 
+- 🌱 I’m currently at learning stage of **frontend webdev with firebase service**, as my hobby
      <br />
   -   I'm also trying my luck with programming as side hustle freelancer from october 2021
      
