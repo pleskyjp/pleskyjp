@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently at learning stage of **frontend webdev with firebase service**, as my hobby
      <br />
-  -   I'm also trying my luck with programming side hustle fas reelancer from october 2021
+  -   I'm also trying my luck with programming side hustle as reelancer from october 2021
      
 - 📫 How to reach me **plesky.jp@gmail.com**
 
