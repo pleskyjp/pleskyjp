@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jiří Pleskot</h1>
-<h3 align="center">A passionate web developer from Czech Republic</h3>
+<h3 align="center">A passionate fullstack software developer from Czech Republic</h3>
 
-- I’m currently working as freelancer from october 2021 as fullstack software developer
 <br />
 
+- :computer: Opened to work as freelancer
 - 📫 How to reach me **plesky.jp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
